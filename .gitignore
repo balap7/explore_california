@@ -1,0 +1,9 @@
+# comment 
+tempfiles.txt
+.DS_Store
+*.zip
+*.gz
+log/*.log
+log/*.log.[0-9]
+assets/videos/
+!assets/vieos/tour_*.mp4
